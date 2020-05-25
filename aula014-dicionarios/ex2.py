@@ -6,3 +6,4 @@
 dados = {0: "um número", 1: "outro número"}
 print(dados[0])   # Exibe "um número"
 print(dados[1])   # Exibe "outro número"
+
